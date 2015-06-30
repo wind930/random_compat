@@ -10,3 +10,11 @@ This library can generate strong random numbers and cryptographically secure ran
 ## Usage
 
 While the API is in flux, refer to `test.php` for example usage and the Random class itself under `lib`.
+
+## composer install
+ 
+```javascript 
+"require": {
+    "wind/random-compat" : "dev-master"
+}
+```
