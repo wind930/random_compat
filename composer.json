@@ -1,5 +1,5 @@
 {
-	"name": "ircmaxell/random-compat",
+	"name": "wind/random-compat",
 	"description": "A compatibility library for the proposed simplified random number generator",
 	"version": "0.1",
 	"keywords": ["random"],
