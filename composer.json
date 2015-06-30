@@ -5,6 +5,9 @@
 	"keywords": ["random"],
 	"homepage": "https://github.com/ircmaxell/random_compat",
 	"license": "MIT",
+	"require": {
+        "php": ">=5.5.9",
+    },
 	"authors": [
 		{
 			"name": "Anthony Ferrara",
